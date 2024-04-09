@@ -20,13 +20,15 @@ Print the statement
 End the program
 ## Program:
 ```
+##Developed by:Iniyasri.s
+##Registered number:212223230081
 def circulate():
     a=eval(input())
     x=int(input())
     print("After circulating the values are: {}".format(a[x:]+a[:x]))
 ```
 ## Output:
-![Screenshot 2024-03-11 202658](https://github.com/iniyasri4464/Circulate-the-values-of-N-variables/assets/152419072/1bc939f0-4648-4a41-a668-b7681fdb287b)
+![alt text](<Screenshot 2024-03-11 202658.png>)
 
 ## Result:
 Program executed successfully.
